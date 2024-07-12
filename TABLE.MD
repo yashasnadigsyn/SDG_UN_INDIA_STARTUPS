@@ -1,4 +1,4 @@
-| Startup Name | Startup Funding | Predicted UN SDG Goals |
+| Startup Name | Startup Funding | UN SDG Goals |
 |---|---|---| 
 | 75F | $25 Mn | 7. Affordable and Clean Energy, 9. Industry, Innovation and Infrastructure, 11. Sustainable Cities and Communities, 13. Climate Action |
 | Ace Green Recycling | $10 Mn | 7. Affordable and Clean Energy, 9. Industry, Innovation and Infrastructure, 12. Responsible Consumption and Production, 13. Climate Action |
